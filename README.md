@@ -1,4 +1,4 @@
-# super-store-sales-dashboard
+# Super-Store-Sales-Dashboard
 “Interactive Super Store Dashboard with 15-Day Sales Forecast”
 
 An interactive **Super Store Sales Dashboard** built to analyze sales performance, customer segments, regional trends, shipping modes, and future sales predictions.  
