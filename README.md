@@ -30,3 +30,6 @@ The project also includes a **15-day sales forecast** to help predict short-term
 - **Excel / CSV** – Data source  
 - **Python (optional)** – Data preprocessing & forecasting  
 - **GitHub** – Project repository  
+
+## 🚀 Conclusion
+This dashboard provides **clear visual insights** into sales performance, highlights **high-performing segments and regions**, and supports **data-driven business decisions and strategic planning**.
