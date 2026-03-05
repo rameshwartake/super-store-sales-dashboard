@@ -33,3 +33,8 @@ The project also includes a **15-day sales forecast** to help predict short-term
 
 ## 🚀 Conclusion
 This dashboard provides **clear visual insights** into sales performance, highlights **high-performing segments and regions**, and supports **data-driven business decisions and strategic planning**.
+
+👤 Author
+Rameshwar Sahebrao Take 📧 Email: ramtakepatil0801@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/rameshwar-take-5b1209246
